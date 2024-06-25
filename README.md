@@ -1,0 +1,2 @@
+# Regression Techniques Comparison Using Kernel Ridge Regression
+ This project explores various regression techniques, including Kernel Ridge Regression (KRR) with different kernel functions such as RBF, Matern, and Laplacian. It compares their performance using a real estate dataset. The analysis highlights the strengths and limitations of each method, providing insights into effective house price prediction.
